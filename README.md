@@ -1,0 +1,2 @@
+# gpool
+Golang Processing Pool
